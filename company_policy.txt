@@ -1,0 +1,76 @@
+TECHCORP COMPANY POLICY DOCUMENT
+==================================
+
+SECTION 1: REFUND POLICY
+--------------------------
+TechCorp offers a 30-day money-back guarantee on all products.
+To request a refund, customers must contact support@techcorp.com
+with their order ID and reason for refund.
+Refunds are processed within 5-7 business days.
+Digital products are non-refundable after download.
+Subscription plans can be cancelled anytime but are non-refundable
+for the current billing period.
+
+SECTION 2: SHIPPING POLICY
+----------------------------
+TechCorp ships to over 50 countries worldwide.
+Standard shipping takes 5-7 business days.
+Express shipping takes 1-2 business days and costs $15 extra.
+Free shipping is available on orders above $100.
+International orders may take 10-15 business days.
+Customers receive a tracking number via email once shipped.
+
+SECTION 3: LEAVE POLICY
+-------------------------
+Full-time employees are entitled to 20 days of paid leave per year.
+Sick leave is 10 days per year and does not carry over.
+Maternity leave is 6 months fully paid.
+Paternity leave is 2 weeks fully paid.
+Leave requests must be submitted at least 2 weeks in advance.
+Emergency leaves are approved on a case-by-case basis by HR.
+Unused leave can be carried over up to a maximum of 10 days.
+
+SECTION 4: WORK FROM HOME POLICY
+----------------------------------
+Employees can work from home up to 3 days per week.
+Core working hours are 10 AM to 4 PM in local timezone.
+Employees must be reachable on Slack during core hours.
+A stable internet connection of minimum 10 Mbps is required.
+Work from home is not allowed during client visits or team events.
+New employees must complete 3 months before applying for WFH.
+
+SECTION 5: PAYMENT AND BILLING
+--------------------------------
+TechCorp accepts Visa, Mastercard, PayPal, and bank transfers.
+All prices are in USD unless stated otherwise.
+Invoices are sent automatically on the billing date.
+Failed payments are retried 3 times over 7 days.
+Accounts with failed payments are suspended after 14 days.
+To update payment method, go to Settings > Billing > Payment Method.
+
+SECTION 6: CUSTOMER SUPPORT
+-----------------------------
+Support is available Monday to Friday, 9 AM to 6 PM IST.
+Email support: support@techcorp.com (response within 24 hours)
+Live chat is available on the website during business hours.
+Phone support: +1-800-TECHCORP (Premium customers only)
+Priority support is included in Enterprise plans.
+Average response time for premium customers is under 2 hours.
+
+SECTION 7: DATA PRIVACY
+-------------------------
+TechCorp does not sell customer data to third parties.
+All data is encrypted using AES-256 encryption.
+Customers can request data deletion by emailing privacy@techcorp.com.
+Data is stored in servers located in the United States and Europe.
+TechCorp is GDPR compliant for European customers.
+Annual security audits are conducted by third-party firms.
+
+SECTION 8: EMPLOYEE CODE OF CONDUCT
+--------------------------------------
+Employees must maintain professional behavior at all times.
+Harassment of any kind is strictly prohibited and grounds for termination.
+Confidential company information must not be shared externally.
+Conflicts of interest must be disclosed to HR immediately.
+Employees must complete annual compliance training.
+Personal use of company equipment is limited to 30 minutes per day.
